@@ -19,15 +19,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3bb98d4-63ee-4112-aca7-b048e3c75626" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/be/ap/edu/mapsaver/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/be/ap/edu/mapsaver/MainActivity.kt" afterDir="false" />
-    </list>
+    <list default="true" id="e3bb98d4-63ee-4112-aca7-b048e3c75626" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Nexus_5X_API_R]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[R58N84CVX5X]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -39,6 +37,14 @@
         <projects_view />
       </state>
     </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="layoutResourceFile_vertical" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -58,16 +64,18 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="device.picker.selection" value="Nexus_6P_API_26" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../explicitintents/ExplicitIntent" />
     <property name="not.eligible.for.single.variant.sync" value="true" />
     <property name="options.lastSelected" value="preferences.pathVariables" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="project.structure.last.edited" value="Suggestions" />
+    <property name="project.structure.last.edited" value="SDK Location" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="emulator" />
@@ -76,27 +84,21 @@
   <component name="PsdUISettings">
     <option name="LAST_EDITED_BUILD_TYPE" value="release" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="be.ap.edu.mapsaver" />
+    </key>
+    <key name="android.template.-939788390">
+      <recent name="be.ap.edu.mapsaver" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
     </configuration>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -104,13 +106,6 @@
     </configuration>
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-    </configuration>
-    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
-      <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
     </configuration>
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="Kotlin-Map.app" />
@@ -120,6 +115,7 @@
       <option name="ARTIFACT_NAME" value="" />
       <option name="PM_INSTALL_OPTIONS" value="" />
       <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
       <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
       <option name="ACTIVITY_EXTRA_FLAGS" value="" />
       <option name="MODE" value="default_activity" />
@@ -175,6 +171,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -188,6 +194,7 @@
       </method>
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -200,35 +207,5 @@
       <updated>1537419490898</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="36" y="23" width="1240" height="623" key="AVDManager" timestamp="1602691324044">
-      <screen x="0" y="23" width="1440" height="823" />
-    </state>
-    <state x="36" y="23" width="1240" height="623" key="AVDManager/0.23.1440.823@0.23.1440.823" timestamp="1602691324044" />
-    <state width="1398" height="224" key="GridCell.Tab.0.bottom" timestamp="1603031347160">
-      <screen x="0" y="23" width="1440" height="823" />
-    </state>
-    <state width="1398" height="224" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1603031347160" />
-    <state width="1398" height="224" key="GridCell.Tab.0.center" timestamp="1603031347160">
-      <screen x="0" y="23" width="1440" height="823" />
-    </state>
-    <state width="1398" height="224" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1603031347160" />
-    <state width="1398" height="224" key="GridCell.Tab.0.left" timestamp="1603031347159">
-      <screen x="0" y="23" width="1440" height="823" />
-    </state>
-    <state width="1398" height="224" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1603031347159" />
-    <state width="1398" height="224" key="GridCell.Tab.0.right" timestamp="1603031347160">
-      <screen x="0" y="23" width="1440" height="823" />
-    </state>
-    <state width="1398" height="224" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1603031347160" />
-    <state x="77" y="41" key="SettingsEditor" timestamp="1602690768774">
-      <screen x="0" y="23" width="1440" height="823" />
-    </state>
-    <state x="77" y="41" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1602690768774" />
-    <state x="100" y="123" width="1240" height="623" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1602666609411">
-      <screen x="0" y="23" width="1440" height="823" />
-    </state>
-    <state x="100" y="123" width="1240" height="623" key="com.android.tools.idea.avdmanager.AvdListDialog/0.23.1440.823@0.23.1440.823" timestamp="1602666609411" />
   </component>
 </project>
